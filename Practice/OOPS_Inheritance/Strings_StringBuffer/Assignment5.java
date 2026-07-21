@@ -1,5 +1,3 @@
-package Practice.OOPS_Inheritance.Strings_StringBuffer;
-
 import java.util.Scanner;
 
 /*

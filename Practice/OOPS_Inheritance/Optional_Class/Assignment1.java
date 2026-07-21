@@ -1,5 +1,3 @@
-package Practice.OOPS_Inheritance.Optional_Class;
-
 import java.util.Optional;
 
 /*

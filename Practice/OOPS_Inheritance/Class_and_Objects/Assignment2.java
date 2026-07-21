@@ -1,5 +1,3 @@
-package Practice.OOPS_Inheritance.Class_and_Objects;
-
 import java.util.Scanner;
 
 /*

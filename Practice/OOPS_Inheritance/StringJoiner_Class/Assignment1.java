@@ -1,5 +1,3 @@
-package Practice.OOPS_Inheritance.StringJoiner_Class;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.StringJoiner;

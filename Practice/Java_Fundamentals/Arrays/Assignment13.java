@@ -1,5 +1,3 @@
-package Practice.Java_Fundamentals.Arrays;
-
 /*
  * Write a program to reverse the elements of a given 2*2 array. Four integer numbers needs to be passed as Command Line arguments.
  *

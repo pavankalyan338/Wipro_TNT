@@ -1,5 +1,3 @@
-package Practice.Java_Fundamentals.Arrays;
-
 import java.util.Scanner;
 import java.util.Arrays;
 

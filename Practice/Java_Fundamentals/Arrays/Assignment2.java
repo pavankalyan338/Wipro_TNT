@@ -1,4 +1,4 @@
-package Practice.Java_Fundamentals.Arrays;
+
 
 import java.util.Scanner;
 

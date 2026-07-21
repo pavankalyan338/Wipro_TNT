@@ -1,5 +1,3 @@
-package Practice.OOPS_Inheritance.Overriding_Polymorphisim;
-
 import java.util.Scanner;
 
 /*

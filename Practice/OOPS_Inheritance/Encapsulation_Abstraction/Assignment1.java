@@ -1,5 +1,3 @@
-package Practice.Encapsulation_Abstraction;
-
 import java.util.Scanner;
 
 /*

@@ -5,8 +5,6 @@ Given two non-negative int values, print true if they have the same last digit, 
  lastDigit(6, 17) → false
  lastDigit(3, 113) → true
 */
-package Practice.Flow_Control_Statements;
-
 public class Assignment1B {
     
     // Method to check if two non-negative integers have the same last digit

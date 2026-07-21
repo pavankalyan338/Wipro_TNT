@@ -1,7 +1,6 @@
 /*
 Write a program to check if a given integer number is Positive, Negative, or Zero.
 */
-package Practice.Flow_Control_Statements;
 public class Assignment1A {
     public static void main(String[] args) {
         // Checking if an argument is passed
